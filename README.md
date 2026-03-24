@@ -83,5 +83,9 @@ The original image data and ground truth masks are from "image set [BBBC004v1](h
 
 Rest of the content is under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) licence.
 
+## Other used datasets
+
+[https://download.fht.org/jug/n2v/SEM.zip](https://download.fht.org/jug/n2v/SEM.zip)
+
 ---
 **Contact:** If you find corrupted images or have issues with the StarDist plugin, please open an "Issue" in this repository.
